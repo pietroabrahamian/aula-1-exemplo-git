@@ -16,6 +16,12 @@ Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no fu
 - 📝 Projetos simples e tutoriais
 - 💡 Anotações e dicas
 
+
+
+## YYYYYY
+ 
+Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
+
 ## 💬 Contato
  
 Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
