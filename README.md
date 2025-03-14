@@ -7,17 +7,14 @@ Repositório do primeiro exercício de Git FIAP, utilizado para praticar, aprend
 - CSS
 - JavaScript
 - Git e GitHub
+## XXXXXX
+ 
+Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
 ## 📚 O que você encontrará aqui?
  
 - 📝 Projetos simples e tutoriais
 - 💡 Anotações e dicas
-
-
-
-## 🎯 Objetivo
- 
-Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
 ## 💬 Contato
  
